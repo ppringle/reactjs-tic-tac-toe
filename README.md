@@ -1,4 +1,4 @@
-#reactjs-tic-tac-toe
+# reactjs-tic-tac-toe
 
 This tic-tac-toe demo application provides a basic but thorough beginner's example of how to interact with the ReactJS 
 framework.
