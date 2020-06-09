@@ -1,0 +1,5 @@
+---
+applications:
+  - name: ppringle-tic-tac-toe
+    memory: 512MB
+    instances: 1
